@@ -1,0 +1,3 @@
+# Dynamic peg
+This features a demo of the dynamic peg working live on testnet. It has the ability to drop it's own supply while remembering what was set aside.
+It is extremely advanced far beyond any currency developed in the industry. Also it uses various techniques to detect how a user is interacting with decentralized AMM exchanges and a custom router. This code may be run natively from the desktop by running pythonserver.bat with the latest version of python installed so the page may run locally.
